@@ -1,5 +1,5 @@
 # IMAGE-GENERATION-USING-DIFFUSION-PROBABILISTIC-MODELS
-                                                              ![00049](https://github.com/user-attachments/assets/b9de5f43-754a-45e3-8d14-796007381b84)
+                                                              ![Alt text](https://github.com/user-attachments/assets/b9de5f43-754a-45e3-8d14-796007381b84)
 
 
 # Introduction:
