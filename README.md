@@ -1,4 +1,6 @@
 # IMAGE-GENERATION-USING-DIFFUSION-PROBABILISTIC-MODELS
+                                                              ![00049](https://github.com/user-attachments/assets/b9de5f43-754a-45e3-8d14-796007381b84)
+
 
 # Introduction:
 This research explores image processing techniques and neural network models for item recognition. It involves image preprocessing, autoencoder-based feature extraction, and the use of pre-trained convolutional neural networks (CNNs) for feature extraction and similarity searches.
