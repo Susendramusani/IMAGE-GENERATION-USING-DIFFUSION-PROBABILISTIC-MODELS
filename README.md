@@ -1,5 +1,5 @@
 # IMAGE-GENERATION-USING-DIFFUSION-PROBABILISTIC-MODELS
-                                                              !(https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
+                              
 
 
 # Introduction:
