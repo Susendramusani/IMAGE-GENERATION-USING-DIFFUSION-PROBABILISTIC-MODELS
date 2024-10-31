@@ -1,5 +1,5 @@
 # IMAGE-GENERATION-USING-DIFFUSION-PROBABILISTIC-MODELS
-                                                              ![Alt text] http://ai.stanford.edu/~jkrause/cars/car_dataset.html
+                                                              ![ML PROJECT](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
 
 # Introduction:
