@@ -1,5 +1,5 @@
 # IMAGE-GENERATION-USING-DIFFUSION-PROBABILISTIC-MODELS
-                                                              ![MLPROJECT]("C:\Users\susen\OneDrive\Desktop\08006.jpg")
+                                                              ![ALT TEXT]("C:\Users\susen\OneDrive\Desktop\08006.jpg")
 
 
 # Introduction:
