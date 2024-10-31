@@ -1,5 +1,5 @@
 # IMAGE-GENERATION-USING-DIFFUSION-PROBABILISTIC-MODELS
-                                                              ![ALT TEXT]("C:\Users\susen\OneDrive\Desktop\08006.jpg")
+                                                              ![ML PROJECT](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
 
 
 # Introduction:
