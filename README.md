@@ -19,6 +19,6 @@ This research explores image processing techniques and neural network models for
 # Conclusion:
 The methodologies showcase effective image preprocessing, feature extraction, and similarity search in object recognition. The autoencoder offers a lightweight feature extraction solution, while pre-trained CNNs provide high performance with minimal customization. Future optimizations could enhance these methods for real-world applications.
 # Recommendations:
-	Experiment with different autoencoder architectures and hyperparameters to improve accuracy.
-	Test alternative pre-trained CNN models and fine-tuning approaches for better performance.
-	Assess the algorithms on larger datasets and diverse object categories to evaluate generalization capabilities.
+	•Experiment with different autoencoder architectures and hyperparameters to improve accuracy.
+	•Test alternative pre-trained CNN models and fine-tuning approaches for better performance.
+	•Assess the algorithms on larger datasets and diverse object categories to evaluate generalization capabilities.
